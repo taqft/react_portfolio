@@ -9,12 +9,12 @@ import moonbaypreview from "../assets/moonbay-preview.png";
 export const IndividualProject = () => {
 
   const projects = [
-    { id: 1, name: "", img: blogpreview, demo: '', code: ''},
-    { id: 2, name: "", img: emspreview, demo: '', code: '' },
-    { id: 3, name: "", img: plannerpreview, demo: '', code: '' },
-    { id: 4, name: "", img: weatherpreview, demo: '', code: '' },
-    { id: 5, name: "", img: namepasspreview, demo: '', code: ''},
-    { id: 6, name: "", img: moonbaypreview, demo: '', code: ''}
+    { id: 1, name: "", img: blogpreview, demo: 'https://tech-feed-rb.herokuapp.com/', code: 'https://github.com/RickyRicer/techBlogMVC'},
+    { id: 2, name: "", img: emspreview, demo: 'https://github.com/theresaqueryforthat/CMSApp/blob/main/assets/images/demo.gif', code: 'https://github.com/theresaqueryforthat/CMSApp' },
+    { id: 3, name: "", img: plannerpreview, demo: 'https://theresaqueryforthat.github.io/work_planner/', code: 'https://github.com/theresaqueryforthat/work_planner' },
+    { id: 4, name: "", img: weatherpreview, demo: 'https://atmention.github.io/weather_app/', code: 'https://github.com/atmention/weather_app' },
+    { id: 5, name: "", img: namepasspreview, demo: 'https://namepass.herokuapp.com/', code: 'https://github.com/theresaqueryforthat/NamePassPro'},
+    { id: 6, name: "", img: moonbaypreview, demo: 'https://moonbay.herokuapp.com/', code: 'https://github.com/theresaqueryforthat/MoonBay'}
   ];
 
   return (
