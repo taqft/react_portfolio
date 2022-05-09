@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_portfolio/static/css/main.5dc3154e.css",
+    "main.js": "/react_portfolio/static/js/main.a1fc6045.js",
+    "static/media/moonbay-preview.png": "/react_portfolio/static/media/moonbay-preview.4fd37971e32d1e75ef76.png",
+    "static/media/namepass-preview.png": "/react_portfolio/static/media/namepass-preview.17f271e097a395c748eb.png",
+    "static/media/planner-preview.png": "/react_portfolio/static/media/planner-preview.07caa178902fb163be37.png",
+    "static/media/blog-preview.png": "/react_portfolio/static/media/blog-preview.7c8d180fadc1865e8a66.png",
+    "static/media/ems-preview.png": "/react_portfolio/static/media/ems-preview.d0b2f3d6d5345a99f7ad.png",
+    "static/media/logo.png": "/react_portfolio/static/media/logo.9bc109248aae5684f455.png",
+    "static/media/weather-preview.png": "/react_portfolio/static/media/weather-preview.c8c82e993c4b904cc8e4.png",
+    "index.html": "/react_portfolio/index.html",
+    "main.5dc3154e.css.map": "/react_portfolio/static/css/main.5dc3154e.css.map",
+    "main.a1fc6045.js.map": "/react_portfolio/static/js/main.a1fc6045.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dc3154e.css",
+    "static/js/main.a1fc6045.js"
+  ]
+}
