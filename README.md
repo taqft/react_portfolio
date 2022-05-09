@@ -2,7 +2,7 @@
 
 React boilerplate to show off projects and other work.
 
-Dummy-portfolio link -> https://google.com/
+Portfolio link -> https://theresaqueryforthat.github.io/react_portfolio/
 
 Here's a preview:
 
