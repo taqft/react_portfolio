@@ -1,8 +1,14 @@
 # My React Portfolio
 
+# Description
+
 React boilerplate to show off projects and other work.
 
+# Link
+
 Portfolio link -> https://theresaqueryforthat.github.io/react_portfolio/
+
+# Preview
 
 Here's a preview:
 
