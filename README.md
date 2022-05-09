@@ -1,4 +1,4 @@
-# react_portfolio
+# My React Portfolio
 
 React boilerplate to show off projects and other work.
 
