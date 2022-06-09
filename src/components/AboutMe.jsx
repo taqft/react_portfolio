@@ -12,7 +12,7 @@ export const AboutMe = () => {
             </div>
             <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
                 <div className="sm:text-right text-4xl font-bold">
-                      <p>{"Connect with me on socials below! 👋"}</p>
+                      <p>{"Connect with me on socials! ⬅️👋"}</p>
                 </div>
                 <div>
                       <p>{"My name is Ben Koenig. I am currently studying software engineering and fullstack web development. I have always worked in tech whether that be the ecommerce space or fixing computers. I love building things and solving problems."}</p>
