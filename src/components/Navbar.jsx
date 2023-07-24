@@ -21,21 +21,21 @@ export const Navbar = () => {
             <div className="hidden md:flex">
                 <ul className="hidden md:flex">
                     <li>
-                        <Link to="home" smooth={true} duration={500}>{"Home"}</Link>
+                        <Link to="home" smooth={true} duration={400}>{"Home"}</Link>
                     </li>
                     <li>
-                        <Link to="about-me" smooth={true} duration={500}>{"About me"}</Link>
+                        <Link to="about-me" smooth={true} duration={400}>{"About me"}</Link>
                     </li>
                     <li>
-                        <Link to="skills" smooth={true} duration={500}>{"Skills"}</Link>
+                        <Link to="skills" smooth={true} duration={400}>{"Skills"}</Link>
                     </li>
                     <li>
-                        <Link to="projects" smooth={true} duration={500}>{"Projects"}</Link>
+                        <Link to="projects" smooth={true} duration={400}>{"Projects"}</Link>
                     </li>
                 </ul>
             </div>
 
-            {/* Hamburguer menu */}
+            {/* Stack menu */}
             <div onClick={handleClick} style={{ cursor: 'pointer' }} className="md:hidden z-10">
                 {!nav ? <FaBars /> : <FaTimes />}
             </div>
@@ -59,7 +59,7 @@ export const Navbar = () => {
                 </li>
             </ul>
 
-            {/* Social media icons */}
+            {/* Social media */}
             <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
                 <ul>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
