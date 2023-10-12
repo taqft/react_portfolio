@@ -58,27 +58,6 @@ export const Navbar = () => {
                     <Link onClick={handleClick} to="contact" smooth={true} duration={500}>Contact</Link>
                 </li>
             </ul>
-
-            {/* Social media */}
-            <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
-                <ul>
-                    <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-800">
-                        <a className="flex justify-between items-center w-full text-gray-300" href="https://github.com/taqft/" target="_blank" rel="noopener noreferrer">
-                            Github <FaGithub size={30} />
-                        </a>
-                    </li>
-                    <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-green-500">
-                        <a className="flex justify-between items-center w-full text-gray-300" href="tel:386-627-3079" target="_blank" rel="noopener noreferrer">
-                            Phone <FaPhone size={30} />
-                        </a>
-                    </li>
-                    <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-rose-500">
-                        <a className="flex justify-between items-center w-full text-gray-300" href="mailto:ben.koenig@live.com" target="_blank" rel="noopener noreferrer">
-                            Email <MdEmail size={30} />
-                        </a>
-                    </li>
-                </ul>
-            </div>
         </div>
     )
 }
