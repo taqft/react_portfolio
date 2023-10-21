@@ -6,7 +6,7 @@ React boilerplate to show off projects and other work.
 
 # Link
 
-Portfolio link -> https://taqft.github.io/react_portfolio/
+https://taqft.github.io/react_portfolio/
 
 # Preview
 
