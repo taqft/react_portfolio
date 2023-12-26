@@ -9,11 +9,11 @@ import moonbaypreview from "../assets/moonbay-preview.png";
 export const IndividualProject = () => {
 
   const projects = [
-    { id: 1, name: "", img: blogpreview, demo: 'https://tech-feed-rb.herokuapp.com/', code: 'https://github.com/RickyRicer/techBlogMVC'},
+    { id: 1, name: "", img: blogpreview, demo: 'https://techblogmvc.up.railway.app/', code: 'https://github.com/RickyRicer/techBlogMVC'},
     { id: 2, name: "", img: emspreview, demo: 'https://github.com/taqft/CMSApp/blob/main/assets/images/demo.gif', code: 'https://github.com/taqft/CMSApp' },
     { id: 3, name: "", img: plannerpreview, demo: 'https://taqft.github.io/work_planner/', code: 'https://github.com/taqft/work_planner' },
     { id: 4, name: "", img: weatherpreview, demo: 'https://atmention.github.io/weather_app/', code: 'https://github.com/atmention/weather_app' },
-    { id: 5, name: "", img: namepasspreview, demo: 'https://namepass.herokuapp.com/', code: 'https://github.com/taqft/NamePassPro'},
+    { id: 5, name: "", img: namepasspreview, demo: 'https://namepasspro.up.railway.app/', code: 'https://github.com/taqft/NamePassPro'},
     { id: 6, name: "", img: moonbaypreview, demo: 'https://moonbay.herokuapp.com/', code: 'https://github.com/taqft/MoonBay'}
   ];
 
