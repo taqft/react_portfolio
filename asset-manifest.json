@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_portfolio/static/css/main.824de1b4.css",
-    "main.js": "/react_portfolio/static/js/main.962d61ea.js",
+    "main.css": "/react_portfolio/static/css/main.78e883de.css",
+    "main.js": "/react_portfolio/static/js/main.c00e01b2.js",
     "static/media/moonbay-preview.png": "/react_portfolio/static/media/moonbay-preview.4fd37971e32d1e75ef76.png",
     "static/media/namepass-preview.png": "/react_portfolio/static/media/namepass-preview.17f271e097a395c748eb.png",
     "static/media/planner-preview.png": "/react_portfolio/static/media/planner-preview.07caa178902fb163be37.png",
@@ -10,11 +10,11 @@
     "static/media/logo.png": "/react_portfolio/static/media/logo.9bc109248aae5684f455.png",
     "static/media/weather-preview.png": "/react_portfolio/static/media/weather-preview.c8c82e993c4b904cc8e4.png",
     "index.html": "/react_portfolio/index.html",
-    "main.824de1b4.css.map": "/react_portfolio/static/css/main.824de1b4.css.map",
-    "main.962d61ea.js.map": "/react_portfolio/static/js/main.962d61ea.js.map"
+    "main.78e883de.css.map": "/react_portfolio/static/css/main.78e883de.css.map",
+    "main.c00e01b2.js.map": "/react_portfolio/static/js/main.c00e01b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.824de1b4.css",
-    "static/js/main.962d61ea.js"
+    "static/css/main.78e883de.css",
+    "static/js/main.c00e01b2.js"
   ]
 }
