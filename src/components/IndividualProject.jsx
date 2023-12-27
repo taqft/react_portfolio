@@ -14,7 +14,7 @@ export const IndividualProject = () => {
     { id: 3, name: "", img: plannerpreview, demo: 'https://taqft.github.io/work_planner/', code: 'https://github.com/taqft/work_planner' },
     { id: 4, name: "", img: weatherpreview, demo: 'https://atmention.github.io/weather_app/', code: 'https://github.com/atmention/weather_app' },
     { id: 5, name: "", img: namepasspreview, demo: 'https://namepasspro.up.railway.app/', code: 'https://github.com/taqft/NamePassPro'},
-    { id: 6, name: "", img: moonbaypreview, demo: 'https://moonbay.herokuapp.com/', code: 'https://github.com/taqft/MoonBay'}
+    { id: 6, name: "", img: moonbaypreview, demo: 'https://moonbay.up.railway.app/', code: 'https://github.com/taqft/MoonBay'}
   ];
 
   return (
