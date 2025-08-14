@@ -4,7 +4,7 @@ import plannerpreview from "../assets/planner-preview.png";
 import emspreview from "../assets/ems-preview.png";
 import weatherpreview from "../assets/weather-preview.png";
 import namepasspreview from "../assets/namepass-preview.png";
-import moonbaypreview from "../assets/moonbay-preview.png";
+import dunebotpreview from "../assets/dunebot-preview.png";
 
 export const IndividualProject = () => {
 
@@ -14,7 +14,7 @@ export const IndividualProject = () => {
     { id: 3, name: "", img: plannerpreview, demo: 'https://taqft.github.io/work_planner/', code: 'https://github.com/taqft/work_planner' },
     { id: 4, name: "", img: weatherpreview, demo: 'https://taqft.github.io/weather_app/', code: 'https://github.com/taqft/weather_app' },
     { id: 5, name: "", img: namepasspreview, demo: 'https://taqft.github.io/namepass/', code: 'https://github.com/taqft/NamePassPro'},
-    { id: 6, name: "", img: moonbaypreview, demo: 'https://moonbay.up.railway.app/', code: 'https://github.com/taqft/MoonBay'}
+    { id: 6, name: "", img: dunebotpreview, demo: 'https://github.com/Haydengalyeanbiz/Discord-dune-bot?tab=readme-ov-file#examples', code: 'https://github.com/Haydengalyeanbiz/Discord-dune-bot'}
   ];
 
   return (
