@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react_portfolio/static/css/main.a27f6b43.css",
-    "main.js": "/react_portfolio/static/js/main.08cf3db4.js",
-    "static/media/moonbay-preview.png": "/react_portfolio/static/media/moonbay-preview.4fd37971e32d1e75ef76.png",
+    "main.css": "/react_portfolio/static/css/main.fa4848ef.css",
+    "main.js": "/react_portfolio/static/js/main.c5826025.js",
     "static/media/namepass-preview.png": "/react_portfolio/static/media/namepass-preview.17f271e097a395c748eb.png",
     "static/media/planner-preview.png": "/react_portfolio/static/media/planner-preview.07caa178902fb163be37.png",
     "static/media/blog-preview.png": "/react_portfolio/static/media/blog-preview.7c8d180fadc1865e8a66.png",
+    "static/media/dunebot-preview.png": "/react_portfolio/static/media/dunebot-preview.1de070a85af3a27aca1d.png",
     "static/media/ems-preview.png": "/react_portfolio/static/media/ems-preview.d0b2f3d6d5345a99f7ad.png",
     "static/media/logo.png": "/react_portfolio/static/media/logo.9bc109248aae5684f455.png",
     "static/media/weather-preview.png": "/react_portfolio/static/media/weather-preview.c8c82e993c4b904cc8e4.png",
     "index.html": "/react_portfolio/index.html",
-    "main.a27f6b43.css.map": "/react_portfolio/static/css/main.a27f6b43.css.map",
-    "main.08cf3db4.js.map": "/react_portfolio/static/js/main.08cf3db4.js.map"
+    "main.fa4848ef.css.map": "/react_portfolio/static/css/main.fa4848ef.css.map",
+    "main.c5826025.js.map": "/react_portfolio/static/js/main.c5826025.js.map"
   },
   "entrypoints": [
-    "static/css/main.a27f6b43.css",
-    "static/js/main.08cf3db4.js"
+    "static/css/main.fa4848ef.css",
+    "static/js/main.c5826025.js"
   ]
 }
